@@ -1,0 +1,2 @@
+com/example/yuryKorabel/startApplicationTests.java
+ com.example.yuryKorabel.startApplicationTests

@@ -1,0 +1,14 @@
+com/example/yuryKorabel/StartApplication.java
+ com.example.yuryKorabel.StartApplication
+com/example/yuryKorabel/service/DateOperations.java
+ com.example.yuryKorabel.service.DateOperations
+com/example/yuryKorabel/Client/GiphyClient.java
+ com.example.yuryKorabel.Client.GiphyClient
+com/example/yuryKorabel/service/JsonCurrencyExchangeParser.java
+ com.example.yuryKorabel.service.JsonCurrencyExchangeParser
+com/example/yuryKorabel/service/JsonGiphyParser.java
+ com.example.yuryKorabel.service.JsonGiphyParser
+com/example/yuryKorabel/Controller/GetRateController.java
+ com.example.yuryKorabel.Controller.GetRateController
+com/example/yuryKorabel/Client/CurrencyClient.java
+ com.example.yuryKorabel.Client.CurrencyClient
